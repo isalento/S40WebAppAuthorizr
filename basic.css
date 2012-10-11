@@ -1,0 +1,36 @@
+/*
+ * Add your Stylesheet contents here
+ */
+ 
+ #login{
+  background-color:  #B8D1B0;
+ }
+  #logintwo{
+  background-color:  #89EB6A;
+ }
+ #logout{
+  background-color:  #F5463D;
+  color: #FFFFFF;
+ } 
+ #connect{
+  background-color:  #F5C253;
+ }
+ 
+ .button{
+   border: 1px solid black;
+   width:100%;
+   height:30px;
+   text-align: center;
+ }
+ 
+ .file{
+   border: 1px solid black;
+   width:100%;
+   
+   background-color: #BCD7F5;
+   margin: 2px 0px 2px 0px;
+ }
+ 
+ .title{
+  color: #6B4052;
+ }
